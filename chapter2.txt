@@ -1,2 +1,4 @@
 Chapter 2
-:
+
+New line for chapter 2 in testBranch
+
